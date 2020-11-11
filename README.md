@@ -1,7 +1,5 @@
-# The-One-Stop-Shortener
+# 1-Stop-Shortener
 A Text And Video Summarizer - Made With Streamlit
-
-# 1-stop-shortener
 
 1 Stop Shortener tool can be used to summarise:
 
