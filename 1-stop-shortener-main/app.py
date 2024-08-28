@@ -207,7 +207,7 @@ if url and no_of_sentences and st.button('Summarize Hindu Article'):
     df = pd.DataFrame(data, columns = ['Sentence', 'Score'])
 
     st.table(df)
-    st.info('An application made by Piyush and Aditi')
+    st.info('Summarize Everything in One Place')
 
 def print_usage():
     # Display the parameters and what they mean.
